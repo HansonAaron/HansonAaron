@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaron Hanson</h1>
-<h3 align="center">Current student majoring in Computer Science 🎓</h3>
+<h3 align="center">Aspiring Software Engineer majoring in Computer Science 🎓</h3>
 
 - 🔭 I’m currently working on **creating an automated networking tool, a full stack social media clone, and a component library for vanilla JS and React.js.**
 

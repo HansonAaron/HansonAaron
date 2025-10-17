@@ -42,8 +42,7 @@
 
 <h3 align="left">😰 GitHub Stats:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronhanson&show_icons=true&theme=github_dark&hide_border=true" alt="aaronhanson" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronhanson&show_icons=true&theme=nightowl&hide_border=false" alt="aaronhanson" /></p>
 
 
 
